@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="quiz_brain" type="Dart" />
+      <mapping pattern="quiz_brain.dart" type="Dart" />
+    </extensionMap>
+  </component>
+</application>
